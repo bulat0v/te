@@ -1,3 +1,3 @@
 # te
-Test django-shop
+Test django-shop/
 My test project/
